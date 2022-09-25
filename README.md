@@ -10,7 +10,7 @@
 * 💜 Interest and studying [ReactJS](https://pt-br.reactjs.org)
 * 🎇 Technologies I use: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
 * 👋 Connect with me on [LinkedIn](https://www.linkedin.com/in/matheussfigueiredo/)
-* 📧 Contact email: [sz.matheusfigueiredo@gmail.com](mailto:sz.matheusfigueiredo@gmail.com)   
+* 📧 Contact email: [sz.matheusfigueiredo@gmail.com](mailto:matheussdev3@gmail.com)   
 
 
 
