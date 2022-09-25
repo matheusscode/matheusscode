@@ -2,7 +2,7 @@
 <p align="center"> <strong>I am a student of JavaScript Front-End Stack Technologies and Future Software Engineer<strong><p>
 <br/>
 <br/>
-<a><img align="right" alt="Math-pic" height="280" width="250" src="https://media.discordapp.net/attachments/1023422338278109184/1023477849044303892/Screenshot_20220925-021338_Instagram.jpg?width=474&height=593"></a>
+<a><img align="right" alt="Math-pic" height="280" width="240" styled="border-radius: 30px; "src="https://media.discordapp.net/attachments/1023422338278109184/1023477849044303892/Screenshot_20220925-021338_Instagram.jpg?width=474&height=593"></a>
 
 * 👨‍💻 Front-End Development Study
 * 🌐 My web development goal
