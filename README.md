@@ -2,7 +2,7 @@
 <p align="center"> <strong>I am a student of JavaScript Front-End Stack Technologies and Future Software Engineer<strong><p>
 <br/>
 <br/>
-<a><img align="right" alt="Math-pic" height="280" width="240" src="https://media.discordapp.net/attachments/1023422338278109184/1023477849044303892/Screenshot_20220925-021338_Instagram.jpg?width=474&height=593"></a>
+<a><img align="right" alt="Math-pic" height="290" width="240" src="https://media.discordapp.net/attachments/1023422338278109184/1023477849044303892/Screenshot_20220925-021338_Instagram.jpg?width=474&height=593"></a>
 
 * 👨‍💻 Front-End Development Study
 * 🌐 My web development goal
@@ -30,7 +30,7 @@
 
 ### 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
 <br/>
