@@ -5,19 +5,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-</br>
-
-### 📊 GitHub Stats:
-
-<div align="center" style="display: inline-block">
-  <a href="https://github.com/matheusscode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusscode&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusscode&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-
-
-</br>
-
 ### 🌐 Socials:
 
 <div> 
@@ -28,6 +15,15 @@
   <a href="https://www.linkedin.com/in/matheussfigueiredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<br/>
+</br>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+### 📊 GitHub Stats:
+
+<div align="center" style="display: inline-block">
+<a href="https://github.com/matheusscode">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusscode&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusscode&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+
+
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
