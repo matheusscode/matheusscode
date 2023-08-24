@@ -1,6 +1,6 @@
 # Matheus Figueiredo
 
-Front End Developer and CTO at [@GeniusCorporation](https://github.com/matheusscode).
+Developer, UI/UX, CTO and CEO at [@GeniusCorporation](https://github.com/matheusscode).
 
 | LinkedIn | Gmail | Threads | Vercel | Instagram |
 |:--------:|:-----:|:-------:|:------:|:---------:|
