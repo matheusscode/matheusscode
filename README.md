@@ -1,6 +1,6 @@
 # Matheus Figueiredo
 
-Developer, UI/UX, CTO and CEO at [@GeniusCorporation](https://github.com/matheusscode) and 
+Developer, UI/UX, CTO and CEO at [@GeniusCorporation](https://github.com/matheusscode)
 <br/>
 Developer, UI/UX at [@HospitalAdventista](https://github.com/Hospital-Adventista-de-Manaus)
 
